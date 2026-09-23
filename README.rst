@@ -8,7 +8,7 @@ You must use this program at your own risk.
 
 Mod
 ----------
-https://github.com/chitao1234/aria2-2048-threads/
+https://github.com/tasy5kg/aria2-connection-unlocked
 
 Introduction
 ------------
